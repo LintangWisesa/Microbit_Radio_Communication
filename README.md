@@ -60,7 +60,7 @@ To build this project, you need the following items:
 
 - After that, click __Download__ button to get a __.hex__ file for your Micro:bit board. Simply connect your Micro:bit to your PC/laptop, then paste the __.hex__ file into it.
 
-- __Done!__ You're ready to go! 
+- __Done!__ You're ready to go! :sunglasses: 
 
 #
 
